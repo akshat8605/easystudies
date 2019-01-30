@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.1f0a6947.chunk.css",
-  "main.js": "/static/js/main.bb5b2f09.chunk.js",
-  "main.js.map": "/static/js/main.bb5b2f09.chunk.js.map",
+  "main.js": "/static/js/main.23feb482.chunk.js",
+  "main.js.map": "/static/js/main.23feb482.chunk.js.map",
   "static/css/1.d60b85ad.chunk.css": "/static/css/1.d60b85ad.chunk.css",
   "static/js/1.c112cd46.chunk.js": "/static/js/1.c112cd46.chunk.js",
   "static/js/1.c112cd46.chunk.js.map": "/static/js/1.c112cd46.chunk.js.map",
@@ -9,7 +9,7 @@
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/App.css": "/static/media/SEGA.12a3db8b.woff",
   "static/media/cross.png": "/static/media/cross.2393d9a9.png",
-  "static/media/notifications.css": "/static/media/notification.0b4ac1dc.ttf",
+  "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot",
   "static/media/delete.jpg": "/static/media/delete.653fbfa7.jpg",
   "static/media/edit.svg": "/static/media/edit.d37d9400.svg",
   "static/media/notlike.png": "/static/media/notlike.987ae2ff.png",
@@ -26,6 +26,6 @@
   "static/css/main.1f0a6947.chunk.css.map": "/static/css/main.1f0a6947.chunk.css.map",
   "static/css/1.d60b85ad.chunk.css.map": "/static/css/1.d60b85ad.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.c3fdf3989faf403e29ee81bafa38f94a.js": "/precache-manifest.c3fdf3989faf403e29ee81bafa38f94a.js",
+  "precache-manifest.3c440ab318ea784a3f7c628be1ced4df.js": "/precache-manifest.3c440ab318ea784a3f7c628be1ced4df.js",
   "service-worker.js": "/service-worker.js"
 }
