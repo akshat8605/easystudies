@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/liked.f220c35d.png"
   },
   {
-    "revision": "3196a20fbca1143c0148",
+    "revision": "2b71f403b4e642a4b677",
     "url": "/static/css/main.9c5c95e0.chunk.css"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/static/media/logo.6f53aaa3.png"
   },
   {
-    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
-    "url": "/static/media/notification.0b4ac1dc.ttf"
+    "revision": "651771e1df95c807c99608188d0a4287",
+    "url": "/static/media/notification.651771e1.woff"
   },
   {
     "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
     "url": "/static/media/notification.c0d3c94c.eot"
   },
   {
-    "revision": "651771e1df95c807c99608188d0a4287",
-    "url": "/static/media/notification.651771e1.woff"
+    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
+    "url": "/static/media/notification.0b4ac1dc.ttf"
   },
   {
     "revision": "5bee74caefdf9d0a834915f6c8eeb259",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/notlike.987ae2ff.png"
   },
   {
-    "revision": "3196a20fbca1143c0148",
-    "url": "/static/js/main.3196a20f.chunk.js"
+    "revision": "2b71f403b4e642a4b677",
+    "url": "/static/js/main.2b71f403.chunk.js"
   },
   {
     "revision": "764c604f27701d4b315df0b2356450a5",
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/static/media/bgi.966772a1.jpg"
   },
   {
-    "revision": "2e28022fa61582b9ff59955836e9a8f1",
-    "url": "/static/media/lower-right-illustration.2e28022f.svg"
-  },
-  {
     "revision": "9516fd565b350839e4d70c632ba62d3f",
     "url": "/static/media/left-upper-illustration.9516fd56.svg"
+  },
+  {
+    "revision": "2e28022fa61582b9ff59955836e9a8f1",
+    "url": "/static/media/lower-right-illustration.2e28022f.svg"
   },
   {
     "revision": "b73cca0f70c1a6b05ef7268b4c9e7fed",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.d60b85ad.chunk.css"
   },
   {
-    "revision": "7fd737cc886f72d586a57dbab9d0895a",
+    "revision": "66c336ed54cc78f63522cd39bddcfe39",
     "url": "/index.html"
   }
 ];
