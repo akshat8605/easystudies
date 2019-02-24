@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/search.764c604f.jpg"
   },
   {
-    "revision": "c2a4bb0f9b27fb7bd280",
-    "url": "/static/css/main.1442ce37.chunk.css"
+    "revision": "5ba934212b45fc434779",
+    "url": "/static/css/main.4e05b9df.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/media/edit.d37d9400.svg"
   },
   {
-    "revision": "18f5d8530f9fc1cde699",
-    "url": "/static/js/2.18f5d853.chunk.js"
+    "revision": "67d4e2c07456535dff43",
+    "url": "/static/js/2.67d4e2c0.chunk.js"
   },
   {
     "revision": "2393d9a995bf3fc2111d6eb06cadabe7",
@@ -28,20 +28,20 @@ self.__precacheManifest = [
     "url": "/static/media/logo.6f53aaa3.png"
   },
   {
-    "revision": "651771e1df95c807c99608188d0a4287",
-    "url": "/static/media/notification.651771e1.woff"
-  },
-  {
     "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
     "url": "/static/media/notification.c0d3c94c.eot"
   },
   {
-    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
-    "url": "/static/media/notification.0b4ac1dc.ttf"
+    "revision": "651771e1df95c807c99608188d0a4287",
+    "url": "/static/media/notification.651771e1.woff"
   },
   {
     "revision": "5bee74caefdf9d0a834915f6c8eeb259",
     "url": "/static/media/notification.5bee74ca.svg"
+  },
+  {
+    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
+    "url": "/static/media/notification.0b4ac1dc.ttf"
   },
   {
     "revision": "653fbfa7a4d9ed04f04aeb0ab8f4ce32",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/liked.f220c35d.png"
   },
   {
-    "revision": "c2a4bb0f9b27fb7bd280",
-    "url": "/static/js/main.c2a4bb0f.chunk.js"
+    "revision": "5ba934212b45fc434779",
+    "url": "/static/js/main.5ba93421.chunk.js"
   },
   {
     "revision": "1d84c1ff25e985f45b9d583db1218518",
@@ -108,11 +108,11 @@ self.__precacheManifest = [
     "url": "/static/media/robot-illustration.c98f3fe3.png"
   },
   {
-    "revision": "18f5d8530f9fc1cde699",
+    "revision": "67d4e2c07456535dff43",
     "url": "/static/css/2.5cee3c93.chunk.css"
   },
   {
-    "revision": "b907f2b890aa65fa0f8fd7ff3edbd28e",
+    "revision": "6505716fb5ebbbe4eb1e02dc763465b1",
     "url": "/index.html"
   }
 ];
