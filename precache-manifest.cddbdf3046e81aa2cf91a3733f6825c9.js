@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/search.764c604f.jpg"
   },
   {
-    "revision": "3b53409d4a7a606f4e40",
+    "revision": "b0a1a489bf0a8a37f47d",
     "url": "/static/css/main.d392c0e3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/media/edit.d37d9400.svg"
   },
   {
-    "revision": "140f578f520aaa536764",
-    "url": "/static/js/2.140f578f.chunk.js"
+    "revision": "f62fab978e53203c5130",
+    "url": "/static/js/2.f62fab97.chunk.js"
   },
   {
     "revision": "2393d9a995bf3fc2111d6eb06cadabe7",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/static/media/notification.651771e1.woff"
   },
   {
-    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
-    "url": "/static/media/notification.0b4ac1dc.ttf"
-  },
-  {
     "revision": "5bee74caefdf9d0a834915f6c8eeb259",
     "url": "/static/media/notification.5bee74ca.svg"
+  },
+  {
+    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
+    "url": "/static/media/notification.0b4ac1dc.ttf"
   },
   {
     "revision": "653fbfa7a4d9ed04f04aeb0ab8f4ce32",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/liked.f220c35d.png"
   },
   {
-    "revision": "3b53409d4a7a606f4e40",
-    "url": "/static/js/main.3b53409d.chunk.js"
+    "revision": "b0a1a489bf0a8a37f47d",
+    "url": "/static/js/main.b0a1a489.chunk.js"
   },
   {
     "revision": "1d84c1ff25e985f45b9d583db1218518",
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/static/media/bgi.966772a1.jpg"
   },
   {
-    "revision": "2e28022fa61582b9ff59955836e9a8f1",
-    "url": "/static/media/lower-right-illustration.2e28022f.svg"
-  },
-  {
     "revision": "9516fd565b350839e4d70c632ba62d3f",
     "url": "/static/media/left-upper-illustration.9516fd56.svg"
+  },
+  {
+    "revision": "2e28022fa61582b9ff59955836e9a8f1",
+    "url": "/static/media/lower-right-illustration.2e28022f.svg"
   },
   {
     "revision": "b73cca0f70c1a6b05ef7268b4c9e7fed",
@@ -108,11 +108,11 @@ self.__precacheManifest = [
     "url": "/static/media/robot-illustration.c98f3fe3.png"
   },
   {
-    "revision": "140f578f520aaa536764",
-    "url": "/static/css/2.6ca606ee.chunk.css"
+    "revision": "f62fab978e53203c5130",
+    "url": "/static/css/2.5cee3c93.chunk.css"
   },
   {
-    "revision": "16ed56cf0796d4330d3c55617736f6b5",
+    "revision": "8a53034adfbc31e464dadbb976719f26",
     "url": "/index.html"
   }
 ];
